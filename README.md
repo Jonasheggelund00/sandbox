@@ -1,2 +1,2 @@
 # sandbox
-Testområdet
+Dette er et test-område for å krangle med gitt.
